@@ -1,0 +1,56 @@
+subject_id,title
+UE4/Cardio/IC,Insuffisance cardiaque (physiopath + TTT)
+UE4/Cardio/HTA,Hypertension artérielle
+UE4/Cardio/SCA,Syndromes coronariens aigus
+UE4/Cardio/FA,Fibrillation atriale
+UE4/Cardio/Valvulopathies,"Valvulopathies (RAo, IM...)"
+UE4/Cardio/ECG,ECG — bases et pièges
+UE4/Cardio/InsuffisanceAorte,Insuffisance aortique
+UE4/Cardio/InsuffisanceMitral,Insuffisance mitrale
+UE4/Cardio/Endocardite,Endocardite infectieuse
+UE4/Cardio/ICaigue,IC aiguë / OAP
+UE6/Pharmaco/Douleur,Antalgiques paliers OMS
+UE6/Pharmaco/ATB,Antibiotiques — grandes classes
+UE6/Pharmaco/Anticoagulants,AVK / AOD — indications
+UE6/Pharmaco/Diabete,Antidiabétiques oraux / insulines
+UE6/Pharmaco/Asthme,"CSI, β2-agonistes, antileucotriènes"
+UE6/Pharmaco/HTA,Antihypertenseurs (IEC/ARA2/diurétiques)
+UE6/Pharmaco/Psychotropes,"ISRS, benzodiazépines, thymorégulateurs"
+UE6/Pharmaco/AntalgiePeriOp,Antalgie périopératoire
+UE6/Pharmaco/Antibioprophylaxie,ATB prophylaxie
+UE6/Pharmaco/Pharmacocinetique,PK/PD essentiels
+UE10/Pneumo/Asthme,Asthme — stratégie
+UE10/Pneumo/BPCO,BPCO — GOLD
+UE10/Pneumo/EP,Embolie pulmonaire — scores
+UE10/Pneumo/Pneumonie,PAC — PEC initiale
+UE10/Pneumo/ApneeSommeil,SAHOS — dépistage
+UE10/Infectio/FievreProlongee,Fièvre prolongée
+UE10/Infectio/Sepsis,Sepsis — critères et PEC
+UE10/Gastro/Cholangite,Cholangite — triade de Charcot
+UE10/Gastro/Pancreatite,Pancréatite aiguë
+UE10/Gastro/HemorragieDigestive,HD supérieure — conduite à tenir
+UE3/Neuro/AVC,AVC — filière thrombolyse/thrombectomie
+UE3/Neuro/Crises,Crises convulsives / épilepsie
+UE3/Neuro/Cephalees,Céphalées — drapeaux rouges
+UE3/Neuro/Neuropathies,Neuropathies périphériques
+UE3/Neuro/Parkinson,Syndrome parkinsonien
+UE5/Endocrino/Thyroide,Hypo/Hyperthyroïdie
+UE5/Endocrino/Diabete,Diabète — complications
+UE5/Endocrino/Surrenale,Insuffisance surrénalienne
+UE5/Endocrino/Calcemie,Troubles de la calcémie
+UE2/Hemato/AnemieMicro,Anémie microcytaire
+UE2/Hemato/AnemieNormo,Anémie normocytaire
+UE2/Hemato/Transfusion,Transfusion — sécurité
+UE2/Hemato/Leucemie,Leucémies aigües — principes
+UE7/Dermato/Acne,Acné — PEC
+UE7/Dermato/Psoriasis,Psoriasis — TTT
+UE7/Rhumato/PR,Polyarthrite rhumatoïde
+UE7/Rhumato/Goutte,Goutte — crise et fond
+UE8/Nephro/IRA,Insuffisance rénale aiguë
+UE8/Nephro/IRC,Insuffisance rénale chronique
+UE8/Uro/IVU,Infections urinaires
+UE9/Gyneco/Contraception,Contraception
+UE9/Gyneco/Grossesse,Grossesse — suivi
+UE9/Obs/HemorragieDuPostPartum,HPP — urgence
+UE1/SP/BioStat,Biostatistiques — bases
+UE1/SP/Epidemio,Épidémiologie — études
